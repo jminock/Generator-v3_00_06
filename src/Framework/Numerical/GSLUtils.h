@@ -22,7 +22,7 @@
 #include <Math/AllIntegrationTypes.h>
 #include <string>
 
-using std::string
+using std::string;
 
 namespace genie {
 namespace utils {
